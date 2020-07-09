@@ -1,4 +1,13 @@
-### Hi there 👋
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hi, there! 👋")
+}
+```
+
 
 <!--
 **pankona/pankona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
