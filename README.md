@@ -8,7 +8,7 @@ func main() {
 }
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankona&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankona&hide=html)
 ![pankona's github stats](https://github-readme-stats.vercel.app/api?username=pankona&show_icons=true&count_private=true&line_height=33)
 
 <!--
