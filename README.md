@@ -8,8 +8,11 @@ func main() {
 }
 ```
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankona&hide=html)
 ![pankona's github stats](https://github-readme-stats.vercel.app/api?username=pankona&show_icons=true&count_private=true&line_height=33)
+
+<img src=https://user-images.githubusercontent.com/6533008/208029326-851fb771-bdb4-4c65-b3ea-f3f22790dbfc.png width="320px">
 
 <!--
 **pankona/pankona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
